@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+- [x] this is a complete item
 Use the left arrow to go back!
